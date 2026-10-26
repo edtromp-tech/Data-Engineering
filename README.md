@@ -4,7 +4,7 @@ Data Specialist with 6+ years of experience designing SQL Server data architectu
 
 ## Featured Projects
 
-### [Booking Repository ETL & Reporting Architecture](./Projects/booking-repository/Booking Repository Reporting Database.md)
+### [Booking Repository ETL & Reporting Architecture](./Projects/bookingrepository/Booking%20Repository%20Reporting%20Database.md)
 
 Designed a SQL Server reporting repository that mirrors required structures from an operational booking system and uses nightly stored procedures to incrementally pipeline data into local tables. The solution uses ETL watermarks, execution logging, data validation, consolidated booking tables, and reporting views to provide reliable datasets for Power BI and SSRS while isolating reports from changes to the underlying pipeline.
 
