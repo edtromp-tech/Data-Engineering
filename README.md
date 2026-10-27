@@ -11,3 +11,8 @@ Designed a SQL Server reporting repository that mirrors required structures from
 ### [Driver Assignment Integration Pipeline](./Projects/driver-assignment/Driver%20Assignment%20Pipeline.md)
 
 Built a multi-system integration pipeline that retrieves driver and vehicle data from safety and booking platforms, cross-references records through stable internal keys, and combines booking-system shift activity into a unified assignment dataset. The pipeline manages driver creation and deactivation before synchronizing driver-to-vehicle assignments, with safeguards for unmatched records, stale assignments, duplicate relationships, and incomplete assignment end times.
+
+### [Dynamic Table Merge ETL](./Projects/sp_Merge_RemoteTable/sp_Merge_RemoteTable.md)
+This project demonstrates a reusable, metadata-driven ETL framework built in SQL Server for synchronizing tables between remote and local databases.
+Instead of maintaining a separate stored procedure for every table or database, the process dynamically determines the source and target configuration, discovers table columns from SQL Server metadata, generates the required SQL statements, and performs incremental inserts and updates.
+The goal is to reduce duplicated ETL code while making the pipeline easier to maintain as database schemas evolve.
