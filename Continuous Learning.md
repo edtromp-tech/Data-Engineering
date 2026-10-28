@@ -11,8 +11,8 @@ My goal is not only to complete training, but to apply what I learn through hand
 
 #### [6-Week Data Engineer Boot Camp](https://www.youtube.com/watch?v=HU2T03ckAno&list=PLwUdL9DpGWU0lhwp3WCxRsb1385KFTLYE&index=2)
 ![Provider](https://img.shields.io/badge/Provider-DataExpert-blue)
-![Completed](https://img.shields.io/badge/Completed-_-blue)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
+![Completion Date](https://img.shields.io/badge/Completed-n/a-blue)
 ![Topic](https://img.shields.io/badge/Topic-Data_Engineering-green)
 
 **Topics Covered**
