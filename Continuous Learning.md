@@ -60,6 +60,22 @@ My goal is not only to complete training, but to apply what I learn through hand
 - Take on projects beyond your skills
 ---
 
+### [The Data Movie](https://www.youtube.com/watch?v=J2rQTJby8XM&list=WL&index=2)
+![Creator](https://img.shields.io/badge/Creator-Baraa-blue)
+![Watched](https://img.shields.io/badge/Watched-Ocober_2026-blue)
+[![Platform Youtube](https://img.shields.io/badge/Platform-Youtube-red)](https://www.youtube.com/watch?v=J2rQTJby8XM&list=WL&index=2)
+![Topic](https://img.shields.io/badge/Topic-Data_Engineering-green)
+
+
+**Key Takeaways**
+- Data Team Structures
+- Power BI
+- SQL
+- Python
+- ETL & ELT
+- Dimensions & Measures
+---
+
 ## 🛠 Technologies Being Studied
 
 ### Data Engineering
