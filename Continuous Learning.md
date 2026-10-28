@@ -8,11 +8,11 @@ My goal is not only to complete training, but to apply what I learn through hand
 
 ## 🎥 Videos & Technical Talks
 
-### How I Would Learn to be a Data Engineer 
-**Creator:** Luke Barousse
-**Platform:** [YouTube](https://www.youtube.com/watch?v=_-DzZeixu0w&t=1923s)
-**Topic:** Data Engineering  
-**Watched:** October 2026
+### [How I Would Learn to be a Data Engineer](https://www.youtube.com/watch?v=_-DzZeixu0w&t=1923s)
+![Creator](https://img.shields.io/badge/Creator-Luke_Barousse-blue)
+![Watched](https://img.shields.io/badge/Watched-Ocober_2026-blue)
+[![Platform Youtube](https://img.shields.io/badge/Platform-Youtube-red)](https://www.youtube.com/watch?v=_-DzZeixu0w&t=1923s)
+![Topic](https://img.shields.io/badge/Topic-Data_Engineering-green)
 
 
 **Key Takeaways**
