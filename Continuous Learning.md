@@ -7,9 +7,9 @@ My goal is not only to complete training, but to apply what I learn through hand
 ---
 ## 🎓 Courses & Training
 
-### Microsoft Learn
+### Data Engineering
 
-#### 6 - [Week Data Engineer Boot Camp](https://www.youtube.com/watch?v=HU2T03ckAno&list=PLwUdL9DpGWU0lhwp3WCxRsb1385KFTLYE&index=2)
+#### [6-Week Data Engineer Boot Camp](https://www.youtube.com/watch?v=HU2T03ckAno&list=PLwUdL9DpGWU0lhwp3WCxRsb1385KFTLYE&index=2)
 **Provider:** DataExpert
 **Topic:** Data Engineering
 **Status:** In Progress  
