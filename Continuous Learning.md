@@ -10,10 +10,10 @@ My goal is not only to complete training, but to apply what I learn through hand
 ### Data Engineering
 
 #### [6-Week Data Engineer Boot Camp](https://www.youtube.com/watch?v=HU2T03ckAno&list=PLwUdL9DpGWU0lhwp3WCxRsb1385KFTLYE&index=2)
-**Provider:** DataExpert
-**Topic:** Data Engineering
-**Status:** In Progress  
-**Completed:** -
+![Provider](https://img.shields.io/badge/Provider-DataExpert-blue)
+![Completed](https://img.shields.io/badge/Completed-_-blue)
+![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
+![Topic](https://img.shields.io/badge/Topic-Data_Engineering-green)
 
 **Topics Covered**
 - Apache Kafka, Apache Flink, Apache Spark
