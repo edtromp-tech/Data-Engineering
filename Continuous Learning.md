@@ -5,7 +5,33 @@ This page documents books, courses, training, videos, technical documentation, a
 My goal is not only to complete training, but to apply what I learn through hands-on projects and practical implementations.
 
 ---
+## 🎓 Courses & Training
 
+### Microsoft Learn
+
+#### 6 - [Week Data Engineer Boot Camp](https://www.youtube.com/watch?v=HU2T03ckAno&list=PLwUdL9DpGWU0lhwp3WCxRsb1385KFTLYE&index=2)
+**Provider:** DataExpert
+**Topic:** Data Engineering
+**Status:** In Progress  
+**Completed:** -
+
+**Topics Covered**
+- Apache Kafka, Apache Flink, Apache Spark
+- Postgres
+- Fact Data Modeling
+- Airflow, Data Quality patterns
+- Data pipeline maintenance 
+- Data visualization with Tableau 
+- Data impact communication skills 
+- Analytical Patterns like Growth accounting and cumulative table design
+
+**Key Takeaways**
+
+
+**Applied Through**
+
+
+---
 ## 🎥 Videos & Technical Talks
 
 ### [How I Would Learn to be a Data Engineer](https://www.youtube.com/watch?v=_-DzZeixu0w&t=1923s)
