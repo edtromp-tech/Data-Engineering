@@ -21,6 +21,19 @@ My goal is not only to complete training, but to apply what I learn through hand
 - Ingestion
 ---
 
+### [Meet The Million Dollar Data Engineer w/ Zach Wilson](https://www.youtube.com/watch?v=lNxDjCDVC54&t=1258s)
+![Creator](https://img.shields.io/badge/Creator-Avery_Smith-blue)
+![Watched](https://img.shields.io/badge/Watched-Ocober_2026-blue)
+[![Platform Youtube](https://img.shields.io/badge/Platform-Youtube-red)](https://www.youtube.com/watch?v=lNxDjCDVC54&t=1258s)
+![Topic](https://img.shields.io/badge/Topic-Data_Engineering-green)
+
+
+**Key Takeaways**
+- Code Everyday
+- Increase Python Skills 
+- Take on projects beyond your skills
+---
+
 ## 🛠 Technologies Being Studied
 
 ### Data Engineering
