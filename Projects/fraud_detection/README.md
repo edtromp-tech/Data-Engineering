@@ -1,4 +1,4 @@
-# txn-etl: a messy-data ETL pipeline with quarantine, idempotent loads, and an audit trail
+# A messy-data ETL pipeline with quarantine, idempotent loads, and an audit trail
 
 A small, tested pipeline that ingests credit-card transaction CSVs, **repairs what can be
 repaired deterministically, quarantines what can't**, and loads the rest into a warehouse
