@@ -41,8 +41,8 @@ To use real data, point the pipeline at any CSV with the columns listed in
 `REQUIRED_COLUMNS` (e.g. the public Sparkov-style credit-card fraud dataset; check the
 license of whichever copy you use):
 `python -m pipeline --input path/to/file.csv`
-
-All data in this repo is synthetic.
+See [Kaggle Credit Card Transactions](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
+All data in this repo is synthetic. 
 
 ## Results on the demo file
 
