@@ -22,5 +22,5 @@ The goal is to reduce duplicated ETL code while making the pipeline easier to ma
 ### [Credit Card Transaction Data](./Projects/fraud_detection/README.md)
 A small, tested pipeline that ingests credit-card transaction CSVs, repairs what can be repaired deterministically, quarantines what can't, and loads the rest into a warehouse table without ever creating duplicates on re-runs. Most portfolio ETL projects load a tidy CSV into a table. This one starts from the assumption that source data is wrong and shows what you do about it.
 
-### [YouTube Audio Downloader](./Projects/yt_to_download/README.md)
-Free Youtube to mp3 converter. 
+### [YouTube Audio Downloader](./Projects/yt_to_download/YoutubeDownloaderApp/README.md)
+A simple Windows app that downloads audio from YouTube videos or playlists as 320 kbps MP3 files, with the thumbnail embedded as cover art. You can optionally set the artist and album name for the downloaded tracks.
