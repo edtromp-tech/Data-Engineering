@@ -1,5 +1,7 @@
 # YouTube Audio Downloader
 
+[Download File](./dist)
+
 A simple Windows app that downloads audio from YouTube videos or playlists as 320 kbps MP3 files, with the thumbnail embedded as cover art. You can optionally set the artist and album name for the downloaded tracks.
 
 ## What you need to download
